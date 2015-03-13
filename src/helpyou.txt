@@ -1,0 +1,15 @@
+How to use?
+1.Input the web address in the top textfield.
+2.Then press the "set" button.If you want to change, press the "cancel" button.
+3.Press the "get" button.
+4.Everytime you want to send the ball, press the "Balloon" button.
+5.You can get the infromation on the textfield under the top textfield.
+6.color.txt文件只能改变数字的顺序，不能改变颜色的顺序！
+You may need know!!!!!
+If you want to Resume the data, you have to Resume it before you set it. 
+Or you may lost everything.
+If you want to Balloon, please check your Set. 
+Just do Balloon after Set even if it would happen nothing.
+Never do something crazy!
+At last, forgive my poor English.
+Any question contact zzy.
